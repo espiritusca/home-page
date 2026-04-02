@@ -1,4 +1,4 @@
-import { Content } from './_components/Content'
+import { Container } from './_components/Container'
 import { Header } from './_components/Header'
 
 export default function Home() {
@@ -7,7 +7,7 @@ export default function Home() {
     <main>
 
       <Header />
-      <Content />
+      <Container />
 
     </main>
 
